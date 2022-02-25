@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A seasonable caution to all loyal subjects, against antimonarchical principles in an answer to a pretended petition of the Common Hall, in London, assembled on Midsummer Day last, to the Honourable House of Commons : which is designed for a vindication of the Common Hall, as innocent of the affront and indignity thereby offered, by some ill-minded persons in their name, to the supreme authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58915</idno>
+            <idno type="STC">Wing S2218</idno>
+            <idno type="STC">ESTC R13157</idno>
+            <idno type="EEBO-CITATION">13135467</idno>
+            <idno type="OCLC">ocm 13135467</idno>
+            <idno type="VID">97906</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58915)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97906)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 778:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A seasonable caution to all loyal subjects, against antimonarchical principles in an answer to a pretended petition of the Common Hall, in London, assembled on Midsummer Day last, to the Honourable House of Commons : which is designed for a vindication of the Common Hall, as innocent of the affront and indignity thereby offered, by some ill-minded persons in their name, to the supreme authority.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Another caption title on p. 3: A true account of the proceedings of the Common-Hall, at the election of officers for the year ensuing, held at the Guild-Hall of the city of London, June 24, 1689 : as also the petition of the citizens of London to the Commons of England assembled in Parliament.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:97906:1" rendition="simple:additions"/>
+            <head>A Seaſonable Caution to all LOYAL SUBJECTS, AGAINST <hi>Antimonarchical Principles.</hi>
+            </head>
+            <head>In an Anſwer to a pretended Petition of the <hi>Common Hall,</hi> in <hi>London,</hi> aſſembled on <hi>Midſummer</hi>-Day laſt, to the Honourable <hi>Houſe of Commons;</hi> which is deſigned for a Vindication of the <hi>Common Hall,</hi> as innocent of the Affront and Indignity thereby offered, by ſome ill-minded Perſons in their Name, to the Supreme Authority.</head>
+            <p>WHereas the ſaid printed Paper (which, <hi>verbatim,</hi> follows in the laſt part of this ſheet) was ſoon after <hi>Midſummer</hi> laſt publiſhed, under the Title of, <hi>An Account of the Proceedings of the Common-Hall, on Midſummer-day laſt;</hi> thereby pretending it to be done to prevent <hi>Miſrepreſentation;</hi> and aſſerting a Petition therein ſet forth, to be unanimouſly approved of, and agreed upon, by that pub<g ref="char:EOLhyphen"/>lick Aſſembly of the Livery, repreſenting the whole City of <hi>London,</hi>) to be preſented to the High Court of Parliament: To which, this Anſwer was then immediately printed, with Allowance, and ſome thouſands put in<g ref="char:EOLhyphen"/>to the Hawkers Hands, which were ſo in<g ref="char:EOLhyphen"/>duſtriouſly bought up, or ſtifled, that very few Copyes came to light: But now the ſame Paper having been (as we are informed) ſe<g ref="char:EOLhyphen"/>cretly ſpread abroad amongſt their Majeſties Subjects, as well in the City as alſo into moſt Corporations, and other parts of the King<g ref="char:EOLhyphen"/>dom, (for what deſign let ſober and thinking Men judge,) to the great reproach of this City, and diſſatisfaction of many honeſt and well-meaning Perſons; who from thence, and from the reſtleſs Endeavours of ſome Men, who by the ſame unuſual Methods, which they condemned as Crimes in others, do now create and ſet up inſtruments to ſerve their own Turns, though to the diſturbance and hazard of the Publick. We are under a neceſſity, by this Anſwer, again to counter<g ref="char:EOLhyphen"/>mine ſuch dangerous and pernicious Engi<g ref="char:EOLhyphen"/>neers. We cannot imagine it was ſo Printed and Publiſhed with any colour of Authority, but muſt rather conclude it was done by ſome ill minded Perſons, to caſt an <hi>Odium</hi> on this great City, and to create Miſunderſtandings between their Majeſties Subjects, under a diſguiſe of Oppoſition to Popery, though principally deſigned to ſerve their own Turn.</p>
+            <p>'Tis true, and cannot be denyed, than a ſmall number of Citizens (when ſo duly aſſem<g ref="char:EOLhyphen"/>bled) make a Common-Hall, and the Petition in that ſenſe, may not improperly be ſo ſtyled: But it doth not from thence follow, that the Matters contained therein were aſſented unto, ſo as to be approved of, and deſired by more Perſons than were ſo aſſem<g ref="char:EOLhyphen"/>bled together, and perſonally preſent ap<g ref="char:EOLhyphen"/>proving of the ſame, when it was read and propoſed to them.</p>
+            <p>And therefore we do judge it a duty high<g ref="char:EOLhyphen"/>ly incumbent on us, (as we are Members of that great Body, and were the ſame Day preſent in Common Hall, but heard not one Word of that Petition) to publiſh this Apo<g ref="char:EOLhyphen"/>logy on behalf of our ſelves and the whole City, as a Vindication (of that great Body) humbly offered to their Sacred Majeſties, and both Houſes of Parliament, as alſo to the whole Kingdom; for which we have this to ſay, That the Authors and Managers of that Impoſture, are either affraid or aſhamed to own it; and this we do alſo to prevent (as much as in us lies) the evil Influence that Pa<g ref="char:EOLhyphen"/>per may have on the Minds of eaſie and cre<g ref="char:EOLhyphen"/>dulous Perſons: To the end Truth it ſelf (which needs no little arts or tricks to ſup<g ref="char:EOLhyphen"/>port it) may, by its own ſinews, at laſt pre<g ref="char:EOLhyphen"/>vail to undeceive ſuch as have been already mis-informed thereby.</p>
+            <p>We paſs by the Matter of the Petition, and what entertainment it met withal from the Houſe of Commons, as more fit for con<g ref="char:EOLhyphen"/>ſideration of our Superiours.</p>
+            <p>And only take notice, how vehement and earneſt ſome Men were, in that great Aſſem<g ref="char:EOLhyphen"/>bly, to put the Commoners in Nomination before the ſitting Aldermen, which greatly ſurprized many of the Electors; and it was manifeſt, ſcarce one in twenty underſtood the
+<pb n="2" facs="tcp:97906:2"/>
+Queſtion when it was put, in regard of the Noiſe and Oppoſition, which was made by thoſe that did apprehend it: And it could not but be matter of trouble (to ſuch as ſo<g ref="char:EOLhyphen"/>berly deſire and conſult the publick Peace and Tranquillity of this City) to obſerve what earneſt endeavours were uſed to invert Or<g ref="char:EOLhyphen"/>der and Decency therein, (as it were, ſhifting Feet and Face,) by poſtponing ſuch as are already advanced to the Dignity of Senators, to their Inferiours in Nomination.</p>
+            <p>And to behold ſuch a zeal for particular Perſons, as if they had combin'd and deter<g ref="char:EOLhyphen"/>min'd before they came there (as one Man) to carry on a D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſign, rather for a particular Intereſt, than the whole, and with ſo much Heat and Paſſion, as if they would proclaim a prejudice towards all that oppoſed.</p>
+            <p>Theſe things we briefly touch upon, as matters deeply to be reſented by every good Citizen, ſo as to endeavour they may be laid aſide for the future, to promote that peace<g ref="char:EOLhyphen"/>able Temper and publick Spirit, that ſhould govern in every Breaſt, in order to prevent caballing, and private Clubs, to ſerve a Turn, to the hazard of our Publick Weal.</p>
+            <p>And we ſhall now plainly declare what followed the publick Election; for Truth whereof we appeal to thoſe many Hundreds then preſent, who are all ready to atteſt the ſame.</p>
+            <p>When the choice of the <hi>Sheriffs, Chamber<g ref="char:EOLhyphen"/>lain, Bridge Maſters,</hi> and <hi>Ale-Conners,</hi> were made, we concluded the Work of that Day was over, not dreaming, in the leaſt, of this Petition, or any other to be ſet up: But the <hi>Livery</hi> (as in a Congregation, when Sermon is ended) made all towards the door, crow<g ref="char:EOLhyphen"/>ding to get out, as we our ſelves did when many hundreds were gone before before, and others preſſing after; but never heard one Word of this Petition, till from <hi>the Votes of the Houſe of Commons,</hi> which puts us upon enquiry of our Brethren concerning it.</p>
+            <p>And at length we were informed by thoſe that happened to be in the reer, that when moſt part of the Members were gone, or going away, this Petition was propoſed to be read; and that they, with the reſt remai<g ref="char:EOLhyphen"/>ning, (out of curioſity to know the Contents,) held up their Hand for the reading of it; but ſolemnly affirmed, That moſt (of thoſe ſo remaining) who ſo held up their Hands for reading it, did not hold up their Hands for preſenting it.</p>
+            <p>We ſhall cloſe with our hearty Prayer to Almighty God, to make us every one ſenſible, how far we have all (even the beſt of us) come ſhort of our Duty, that we may ſearch our Hearts, and try our Ways, and ſee what cauſe we have all to humble our ſelves under the mighty hand of God, both for our Hypo<g ref="char:EOLhyphen"/>criſie and Profaneneſs. And that we may all of us endeavour to lay aſide Pride, Paſſion, and Self-love, on the one hand, and Debauche<g ref="char:EOLhyphen"/>ry and Immorality on the other; and labour more ſincerely to diſcharge our Duty to God, our Neighbour, and our Selves, as the only Means to make us good Chriſtians; and then we ſhall be ſure to be good Subjects, and good Citizens; ſo as no longer to envy, deſpiſe, and rail at, or proſecute each other; but to <hi>love as Brethren,</hi> and to make <hi>Truth</hi> the badge of our <hi>Chriſtian Profeſſion.</hi>
+            </p>
+            <p>This is the only way to promote the Ho<g ref="char:EOLhyphen"/>nour and Reputation of our National Church, and the Religion eſtabliſhed by Law among us; whoſe Foundation is not laid in Hypocriſie, and aſpiring Dominion, under a Diſguiſe of Re<g ref="char:EOLhyphen"/>ligion, to delude and enſnare the Honeſt and Well meaning to ſide with us, after the example of our Adverſaries; whoſe Deſigns as they have been, ſo they ſtill are, to un<g ref="char:EOLhyphen"/>dermine and ſubvert the Government. There<g ref="char:EOLhyphen"/>fore let us countermine them, in amendment of our lives, to cr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dit this our Holy Reli<g ref="char:EOLhyphen"/>gion; which needs no other Reformation, but that of Manners in its Members; accor<g ref="char:EOLhyphen"/>ding to its pure and wholeſome Doctrine and Diſcipline.</p>
+            <p>And as the Honourable Houſe of Commons have, by their Impartial Votes, declared thoſe who invaded Charters, &amp;<hi>c.</hi> and thoſe who endeavoured to take off the <hi>Penal Laws,</hi> and the <hi>Teſt, &amp;c.</hi> to be equal Tranſgreſſors; though we are ſatisfied the Major part, on either ſide, might have had no ſuch corrupt intention, as may render them Criminals, but rather acted by awe, influence, or miſgui<g ref="char:EOLhyphen"/>dance of others: So let us conſider each other as Chriſtians, and learn the Diſcipline of Self-Denial, (after our Redeemer's example,) to be more ready to forget and forgive, than (Devil like) to recriminate and revenge, and rake into each others Follies and Faults, tor<g ref="char:EOLhyphen"/>menting only to be tormented, thereby pro<g ref="char:EOLhyphen"/>voking one another, and God's vengeance on us all, when it is the duty of every one (For who hath ſo acted as not to need it?) ra<g ref="char:EOLhyphen"/>ther to labour after, and preſs for an <hi>Healing Act of Indempnity,</hi> (and Woe be to them that have hitherto hindred it, as the only means to unite our Diviſions in theſe our greateſt dangers; and to ſupport our Religion, Law, and Liberties, as the ſureſt Bulworks againſt our Common Enemies.</p>
+            <p>Here follows the ſaid printed Paper, and pretended Petition, ſo publiſhed in the Name of the <hi>Common-Hall.</hi>
+            </p>
+            <pb n="3" facs="tcp:97906:2"/>
+            <div type="account">
+               <head>A true Account of the <hi>Proceedings</hi> of the <hi>COMMON-HALL,</hi> at the Election of <hi>Officers</hi> for the Year En<g ref="char:EOLhyphen"/>ſuing, held at the <hi>Guild-Hall</hi> of the City of <hi>London, June 24. 1689.</hi> As alſo the Petition of the Citi<g ref="char:EOLhyphen"/>zens of <hi>London</hi> to the Commons of <hi>England</hi> aſſembled in Parliament.</head>
+               <p>ABout Eleven a Clock on the ſaid Day, (the Hall being full of the Liveries of the reſpective Com<g ref="char:EOLhyphen"/>panies) the Lord Mayor and the Court of Aldermen proceeded to the <hi>Huſtings,</hi> where, after a Proclamation for Silence, made by the Common Cryer, there was a Speech made by the Deputy-Recorder, and after him another by the Common Sergeant, both ſetting forth the occaſion of their being met there that Day; and deſiring their procedure in the buſineſs of the Day, might be carried on with that Unanimity and Prudence, as might both promote their own Honour and Advan<g ref="char:EOLhyphen"/>tage, and their Majeſties Intereſt: Which Speeches were received with the Applauſe of the whole Hall.</p>
+               <p>After which (the Lord Mayor and Court of Aldermen being withdrawn in the Council Chamber, and the Two Sheriffs remaining upon the <hi>Huſtings</hi>) the Names of the Can<g ref="char:EOLhyphen"/>didates for Sheriffs were Read; which were, Mr. <hi>Richard Chiſwel,</hi> Stationer, Mr. <hi>Francis Child,</hi> Goldſmith, Mr. <hi>Richard Scot,</hi> Salter, Sir <hi>Thomas Lane</hi> Alderman, Cloathworker, <hi>Chriſtopher Lethelier</hi> Alderman, Mr. <hi>John Hubland,</hi> Grocer, Mr. <hi>John Deagle,</hi> Draper; and ſome of theſe being Aldermen, and ſome Commoners, there aroſe a Diſpute whether the Aldermen ſhould have the Pre<g ref="char:EOLhyphen"/>cedency in their Nomination, or whether they ſhould be nominated promiſcuouſly, without any diſtinction of Aldermen or Commoners; and the Queſtion being put, it was carried for the latter, as the Right of the Hall. Then each Candidate being ſeverally propoſed to the Hall for their Suffrage, <hi>Chriſtopher Lethelier,</hi> Eſquire, Al<g ref="char:EOLhyphen"/>derman, and Mr. <hi>John Hubland,</hi> Grocer, were Unanimouſly Choſen; and by the She<g ref="char:EOLhyphen"/>riffs immediately declared to be duly Elected Sheriffs of <hi>London</hi> and <hi>Middleſex</hi> for the Year Enſuing.</p>
+               <p>In the next place, the Hall proceeded to the Election of a Chamberlain, the Candi<g ref="char:EOLhyphen"/>dates being Sir <hi>Peter Rich,</hi> the late Cham<g ref="char:EOLhyphen"/>berlain, Mr. <hi>John Jekyl,</hi> Mr. <hi>Matthew Meri<g ref="char:EOLhyphen"/>ton,</hi> Mr. <hi>Leonard Robinſon,</hi> Mr. <hi>Edward Hart<g ref="char:EOLhyphen"/>wel,</hi> Mr. <hi>Edward Buſhel,</hi> Mr. <hi>Benjamin Ducame,</hi> Mr. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> 
+                  <hi>Rooksby,</hi> who being ſeverally propos'd to the Hall, the Majority appeared to be for Mr. <hi>Leonard Robinſon;</hi> which being declared by the Sheriffs, there were ſome that cried out, A. Poll, a Poll; but the She<g ref="char:EOLhyphen"/>riffs being deſirous to ſave the Citizens that Trouble, propoſed the putting up the Queſtion a ſecond time between Sir <hi>Peter Rich,</hi> and Mr. <hi>Leonard Robinſon;</hi> to which the Hall having conſented, they were both propos'd to the Hall again; and the Majority then evidently appearing to be for Mr. <hi>Leo<g ref="char:EOLhyphen"/>nard Robinſon,</hi> he was a ſecond time declared by the Sheriffs to be duly elected, and the Demand of a Poll was no farther inſiſted on.</p>
+               <p>The Hall then proceeded to the Choice of Bridge-Maſters, and Mr. <hi>Thomas Nicholas,</hi> and Mr. <hi>Iſaac Puller</hi> (the former Bridge-Maſters) were continued.</p>
+               <p>They next proceeded to the Election of Auditors of the Chamber and Bridge Houſe Accounts, and of them, Mr. <hi>John Morice,</hi> Mr. <hi>Peter Hubland,</hi> and <hi>Ralph Box</hi> 
+                  <abbr>Esq</abbr> were continued; and for the fourth, <hi>Slingsby Be<g ref="char:EOLhyphen"/>thel</hi> 
+                  <abbr>Esq</abbr> and Mr. <hi>Juſtas Odgar</hi> were Can<g ref="char:EOLhyphen"/>didates, but the Choice fell upon the for<g ref="char:EOLhyphen"/>mer.</p>
+               <p>Laſt of all, they proceeded to chuſe their Ale-Conners, and the three ſurviving ones being continued, one <hi>Johnſon</hi> was choſen for the fourth, in the room of him that was de<g ref="char:EOLhyphen"/>ceaſed.</p>
+               <p>The Election of Officers being thus over, there was immediately a Petition, (propo<g ref="char:EOLhyphen"/>ſed to be preſented to the Honourable the Houſe of Commons) given into the Hands of the Common Serjeant, to be read, for the Approbation of the Hall: And the Queſtion being put, Whether it ſhould be Read, or not? It was unanimouſly carried in the Affirmative; and after it was read, as unanimouſly approved; which was ſuf<g ref="char:EOLhyphen"/>ficiently Teſtified both by ſeveral Vollies of
+<pb n="4" facs="tcp:97906:3"/>
+loud Shouts and Acclamations, and alſo by their deſire to have it read again, which was done accordingly, and thereupon their Shouts and Acclamations were again repea<g ref="char:EOLhyphen"/>ted. Then the Queſtion was put, Who ſhould preſent it? And it was carried by the whole Hall, That it ſhould be preſen<g ref="char:EOLhyphen"/>ted by the Sheriffs and the common Ser<g ref="char:EOLhyphen"/>jeant, with ſuch other Citizens as the Sheriffs ſhould think fit to accompany them. The Petition it ſelf was as followeth:</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="petition">
+                           <head>To the Honourable the Commons of <hi>England,</hi> in Parliament aſſembled. The humble Petition of the Citi<g ref="char:EOLhyphen"/>zens of <hi>London</hi> in the Common Hall aſſembled.</head>
+                           <opener>Moſt humbly Sheweth,</opener>
+                           <p>THat the Body Repreſentative of the City of <hi>London,</hi> in Common-Hall aſſembled, for the Choice of their Sheriffs, cannot but with all humble Thankfulneſs acknowledge upon this Occaſion, the infinite Mercy of Almighty God, in his Gifts of heroick Courage, and excellent Conduct to His now Majeſty; and Wiſdom, and Council to your Honours, whereby the Pe<g ref="char:EOLhyphen"/>titioners Right to elect their chief Magiſtrates freely and quietly, hath been wonderfully pre<g ref="char:EOLhyphen"/>ſerved, all their Liberties, and the very Being of Juſtice, Peace, and Proſperity in the City, de<g ref="char:EOLhyphen"/>pending thereupon.</p>
+                           <p>That by the gracious Influence of Divine Providence, this City is become very powerful and a ſtrong Bulwork for the defence of the Pro<g ref="char:EOLhyphen"/>teſtant Intereſt, and the Security and Quiet of His now Majeſty and the Kingdom; if an univerſal Amity and <g ref="char:V">Ʋ</g>nity be preſerved amongſt the Prote<g ref="char:EOLhyphen"/>ſtant Citizens, who do equally and perfectly re<g ref="char:EOLhyphen"/>nounce and deteſt all Communion whatſoever with the Papacy, and the Roman Church, and adhere only to the Authority of the Holy Scriptures of the Old and New Teſtament: The principal Danger impending over our Engliſh Church and State, being from the politick Popiſh Deſigns to divide the Proteſtants as they did heretofore in the beginning of the Reformation, whereby they firſt ſubdued and deſtroyed the <hi>Calviniſts,</hi> and then with the like blood-thirſty-Cruelty ſuppreſ<g ref="char:EOLhyphen"/>ſed the <hi>Lutherans,</hi> whom they had deluded to help them in the Deſtruction of their Proteſtant Brethren.</p>
+                           <p>Your Petitioners therefore moſt Humbly Pray, That by the Wiſdom and Juſtice of this Honourable Houſe, the Ancient Right of this City freely to elect their Sheriffs, and other Magiſtrates, may be fully and clear<g ref="char:EOLhyphen"/>ly vindicated from all Invaſions of it, and Queſtions concerning it: And for that purpoſe, That the Bill for reſtoring Corporations to their Rights and Privi<g ref="char:EOLhyphen"/>leges may be perfected, as Your weighty Affairs will permit.</p>
+                           <p>And in regard of the preſent dangerous Con<g ref="char:EOLhyphen"/>ſpiracy of the Papiſts, and their Accompli<g ref="char:EOLhyphen"/>ces, againſt the Proteſtant Religion, our King, and Government, and the Invaſion threatned by the French King, whereby the united Force of all the Proteſtants is moſt apparently neceſſary; They pray that our Gracious King may be freed from all Re<g ref="char:EOLhyphen"/>ſtraints of uſing His Proteſtant Subjects, in<g ref="char:EOLhyphen"/>differently, in His Military and Civil Services, according to their ſeveral Qua<g ref="char:EOLhyphen"/>lities and Abilities, wherewith God Al<g ref="char:EOLhyphen"/>mighty, Nature, Education and Experi<g ref="char:EOLhyphen"/>ence, have endowed them, to that very end, that they might be uſeful to their King and Country, and therein ſerve their God in their Generation.</p>
+                           <closer>
+                              <dateline>Guild Hall, London, <date>June <hi>24. 1689.</hi>
+                                 </date>
+                              </dateline> 
+                              <hi>And your Petitioners ſhall always pray,</hi> &amp;c.</closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>This Petition was the next day (<hi>viz. June</hi> 25.) preſented to the Honourable Houſe of Commons, who at firſt rejected it, for want of being ſign'd; but being af<g ref="char:EOLhyphen"/>terwards ſign'd by the Sheriffs and Com<g ref="char:EOLhyphen"/>mon Serjeant, as the ſenſe of the Common-Hall; it was ordered by the Houſe to be read, which was done accordingly.</p>
+               <p>Thus much was thought neceſſary to be made publick for general ſatisfaction; as well to prevent Miſ-repreſentations, as to let the World know that the Citizens of <hi>London</hi> can now chuſe their own Officers, without running the hazard of being indi<g ref="char:EOLhyphen"/>cted for Rioters, and are now no more liable to have Officers impoſed upon them againſt their Conſents: For which valuable Mercy, let us all in the firſt place return our un<g ref="char:EOLhyphen"/>feigned Thanks to Almighty God, as the bleſſed Author of it; and in the next place acknowledge the Goodneſs of their gracious Majeſties, whom God has made the glorious Inſtruments thereof. And for whom there<g ref="char:EOLhyphen"/>fore we ought all heartily to pray, God bleſs King <hi>WILLIAM</hi> and Queen <hi>MARY.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed in the Year</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
